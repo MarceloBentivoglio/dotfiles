@@ -31,3 +31,20 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
+
+# Created by `userpath` on 2020-07-07 20:53:20
+export PATH="$PATH:/Users/marcelobentivoglio/.local/bin"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
+
+# Aliases
+alias gs='git status'
+alias ga='git add '
+alias gb='git branch '
+alias gc='git commit '
+alias gd='git diff '
+alias gco='git checkout '
+alias gk='gitk --all&'
+alias gx='gitx --all '
+
+alias got='git '
+alias get='git '
